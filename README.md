@@ -159,39 +159,44 @@
         <p>At Shankar's LumenEdge, we focus on exploring groundbreaking startup ideas and creating solutions that make a difference.</p>
         <p>Driven by creativity, ambition, and the desire to build something impactful, I am always open to networking, collaborations, and new opportunities.</p>
         
-        <div class="details">
-            <h2>Personal Details</h2>
-            <p><strong>Name:</strong> Shankar</p>
-            <p><strong>Contact Number:</strong> +91 8186871124</p>
-            <p><strong>Email:</strong> <a href="mailto:bhavani525762@gmail.com">bhavani525762@gmail.com</a></p>
-            <p><strong>Location:</strong> Guntur, Andhra Pradesh, India</p>
-        </div>
-        
-        <div class="services">
-            <h2>Our Services</h2>
-            <p>✅ Startup Consultation</p>
-            <p>✅ Business Strategy Development</p>
-            <p>✅ Tech Innovation & AI Solutions</p>
-            <p>✅ Networking & Partnerships</p>
-        </div>
-
-        <div class="feedback">
-            <h2>Feedback & Support</h2>
-            <p>We value your feedback! Let us know how we can improve.</p>
-            <form>
-                <input type="text" placeholder="Your Name" required>
-                <input type="email" placeholder="Your Email" required>
-                <textarea placeholder="Your Message" required></textarea>
-                <button type="submit" class="submit-btn">Submit Feedback</button>
-            </form>
-        </div>
-
-        <div class="contact">
-            <p>📧 Contact me: <a href="mailto:bhavani525762@gmail.com">bhavani525762@gmail.com</a></p>
-            <button class="btn">Get in Touch</button>
-        </div>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shankar's LumenEdge</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f4; padding: 20px; }
+        .container { max-width: 500px; margin: auto; background: white; padding: 20px; border-radius: 10px; }
+        button { background: #007BFF; color: white; padding: 10px; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background: #0056b3; }
+        input, textarea { width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #ccc; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Personal Details</h2>
+        <p><strong>Name:</strong> Shankar</p>
+        <p><strong>Contact:</strong> +91 8186871124</p>
+        <p><strong>Email:</strong> <a href="mailto:bhavani525762@gmail.com">bhavani525762@gmail.com</a></p>
+        <p><strong>Location:</strong> Guntur, Andhra Pradesh, India</p>
+   </style>
+</head>
+<body>
+         <h2>Feedback & Support</h2>
+        <p>Your feedback helps us improve!</p>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send Feedback</button>
+        </form>
+   </style>
+</head>
+<body>
+        <h2>Contact</h2>
+        <p>📧 Reach out via <a href="mailto:bhavani525762@gmail.com">Email</a></p>
+        <button>Contact Us</button>
     </div>
-
 </body>
 </html>
-
